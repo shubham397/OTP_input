@@ -19,7 +19,7 @@ CodeSandbox – https://codesandbox.io/p/github/shubham397/OTP_input/main?import
 src/
 ├── components/
 │ └── OtpInput.tsx
-│ └── otpInput.tsx
+│ └── otpInput.css
 ├── App.tsx
 
 ```
