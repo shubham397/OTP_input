@@ -28,7 +28,7 @@ src/
 
 ```bash
 git clone
-cd step_progress_tracker
+cd OTP_input
 npm install
 npm start
 ```
